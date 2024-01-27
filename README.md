@@ -1,4 +1,11 @@
-### Hi there 👋
+# Tatianna Robinson
+
+- Linkedin: https://www.linkedin.com/in/tatiannna/
+
+## Recent Work
+- [Small](https://github.com/Tatiannna/small) - a Medium clone
+- [Roominate](https://github.com/Blkalkin/dalle-interior-design) - use ChatGPT and Dall-E to renovate rooms of your home
+- [Beat-Maker](https://github.com/Tatiannna/beat-maker) - instrumental maker
 
 <!--
 **Tatiannna/tatiannna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
