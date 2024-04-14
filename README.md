@@ -1,4 +1,4 @@
-# Tatianna Robinson
+# Tatianna
 
 - Linkedin: https://www.linkedin.com/in/tatiannna/
 
