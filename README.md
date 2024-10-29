@@ -1,3 +1,11 @@
+<a href="https://tatiannna.github.io/quick-math/"> Math Drills </a>
+<span>&nbsp;</span>
+<span>&nbsp;</span>
+<a href="https://small-2kuv.onrender.com/"> Small </a>
+<span>&nbsp;</span>
+<span>&nbsp;</span>
+<a href="https://tatiannna.github.io/beat-maker/"> Beat Maker </a>
+
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span>
@@ -25,14 +33,6 @@
     <span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> 
 </p>
-
-<a href="https://tatiannna.github.io/quick-math/"> Math Drills </a>
-<span>&nbsp;</span>
-<span>&nbsp;</span>
-<a href="https://small-2kuv.onrender.com/"> Small </a>
-<span>&nbsp;</span>
-<span>&nbsp;</span>
-<a href="https://tatiannna.github.io/beat-maker/"> Beat Maker </a>
 
 
 <!--
